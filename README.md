@@ -1,6 +1,6 @@
 # Installation Instructions
 
-## 1. Create a Virtual Environment (venv)
+## 1. Create a Virtual Environment (.venv)
 
 Open your terminal and run:
 
@@ -8,7 +8,7 @@ Open your terminal and run:
 python3 -m venv .venv
 ```
 
-This will create a new virtual environment named `venv` in your project directory.
+This will create a new virtual environment named `.venv` in your project directory.
 
 ## 2. Activate the Virtual Environment
 
